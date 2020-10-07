@@ -1,6 +1,4 @@
-'use strict';
 
-{
   //} DOM の取得
   const button = document.getElementById('btn'); 
   const ol = document.querySelector('ol');
@@ -63,8 +61,3 @@
     getImages();
     reset();
   });
-
-
-
-  
-}
